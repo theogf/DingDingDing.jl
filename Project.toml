@@ -12,6 +12,6 @@ REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
 [compat]
 Configurations = "0.17"
 DataDeps = "0.7"
-FFplay_jll = "4"
+FFplay_jll = "7"
 REPL = "1"
 julia = "1.10"
