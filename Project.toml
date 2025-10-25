@@ -1,7 +1,7 @@
 name = "DingDingDing"
 uuid = "3926c259-39ba-4d74-9c2f-25ff6470b8c3"
 authors = ["theogf <theo.galyfajou@gmail.com> and contributors"]
-version = "1.0.0"
+version = "1.0.1"
 
 [deps]
 Configurations = "5218b696-f38b-4ac9-8b61-a12ec717816d"
